@@ -1,0 +1,19 @@
+{
+  "short_name": "task-lister App",
+  "name": "task-lister",
+  "version":"1.0",
+  "manifest_version": 2,
+  "browser_action": {
+    "default_popup": "index.html",
+    "default_title": "task-lister"
+  },
+    "icons": {
+    "16": "checklist.png",
+    "48": "checklist.png",
+    "128": "checklist.png"
+  },
+
+  "content_security_policy": "script-src 'self' 'sha256-RTBVGnt+PUCF1C7dZk1T1J1nL5IeTyeTi8l26CMAqJo='; object-src 'self'"
+}
+
+  
