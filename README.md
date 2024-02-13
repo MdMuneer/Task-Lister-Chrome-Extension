@@ -1,6 +1,6 @@
 Task-Lister-Chrome-Extension
 
-Task-Lister-Chrome-Extension is a Chrome extension designed to manage your daily tasks conveniently.
+- is a Chrome extension designed to manage your daily tasks conveniently.
 
 
 Technologies Used
