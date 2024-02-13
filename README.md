@@ -1,5 +1,9 @@
-# Task-Lister-Chrome-Extension
+Task-Lister-Chrome-Extension
 
--> Its a chrome extension for your daily tasks.
--> Built using using React.....
+Task-Lister-Chrome-Extension is a Chrome extension designed to manage your daily tasks conveniently.
 
+
+Technologies Used
+
+    React.js
+    Chrome Extension API
